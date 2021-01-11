@@ -1,0 +1,14 @@
+{
+  "DEBUG": 1,
+  "DEBUG_LOG_LEVEL": "INFO",
+  "DIR_DATA": "./data",
+  "DB_HOST_IP": "localhost",
+  "DB_HOST_PORT": 27017,
+  "DB_REPLICA_SET_NAME": null,
+  "DB_MAX_SERV_DELAY": 10,
+  "MAXSEVSELDELAY": 60000,
+  "DB": "case",
+  "COLLECTION": "countries",
+  "RESULTS": "results",
+  "QUOTA": 10
+}
